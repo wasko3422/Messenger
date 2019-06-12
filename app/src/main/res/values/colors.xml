@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#4408BE</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="owner_message">#DA095B</color>
+    <color name="companion_message">#2D49D6</color>
+</resources>
